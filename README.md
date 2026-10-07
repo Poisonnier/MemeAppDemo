@@ -4,6 +4,16 @@ A minimalist Flutter application built to demonstrate **Named Route Configuratio
 
 ---
 
+## 🎬 App Demo
+
+<p align="center">
+  <video src="https://github.com/Poisonnier/MemeAppDemo/raw/main/App%20demo.mp4" width="300" controls autoplay muted>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+---
+
 ## 📑 Table of Contents
 1. [Project Overview & Purpose](#-project-overview--purpose)
 2. [What Each Screen Contains](#-what-each-screen-contains)
